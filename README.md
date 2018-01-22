@@ -12,7 +12,7 @@
 
 * **Dependencies**(Debian/Ubuntu platform)
 
-    `sudo apt-get install python vim exuberant-ctags git`
+    `sudo apt-get install python vim exuberant-ctags git vim-gnome  vim-gtk vim-nox`
 
     `sudo pip install dbgp pep8 flake8 pyflakes isort`
 
